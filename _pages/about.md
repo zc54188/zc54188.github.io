@@ -8,5 +8,5 @@ redirect_from:
 ---
 >嘿嘿   
 >阿巴阿巴   
-![biubiubiu](/imgs/2025-07-30/iuAie55HkcZNpCKd.jpeg)    
+[![pVtMk4J.jpg](https://s21.ax1x.com/2025/07/30/pVtMk4J.jpg)](https://imgse.com/i/pVtMk4J)    
 >烦死了怎么上传不了视频啊
