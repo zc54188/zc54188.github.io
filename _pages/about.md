@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "##原神骑洞！！"
+title: "## 原神骑洞！！"
 author_profile: true
 redirect_from: 
   - /about/
