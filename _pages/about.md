@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "你好丫"
+title: "##原神骑洞！！"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 嘿嘿
+阿巴阿巴
