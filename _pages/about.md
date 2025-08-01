@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "这里游荡着一个孤独的灵魂┏┛墓┗┓"
+title: "这里游荡着一个孤独的站长┏┛墓┗┓"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,12 @@ redirect_from:
 [![pVtss7F.png](https://s21.ax1x.com/2025/07/31/pVtss7F.png)](https://imgse.com/i/pVtss7F)
 >###### 嘿嘿 
 
-# 语录库↓↓   
-* 一晃又一秋，有人再见，有人再见   
-* 你觉得遗憾，人家觉得解脱  
+# 语录库+风景↓↓   
+* 一晃又一秋，有人再见，有人再见    
+* [![pVN8p5T.jpg](https://s21.ax1x.com/2025/08/01/pVN8p5T.jpg)](https://imgse.com/i/pVN8p5T)     
+* 你觉得遗憾，人家觉得解脱     
+* [![pVN8CPU.jpg](https://s21.ax1x.com/2025/08/01/pVN8CPU.jpg)](https://imgse.com/i/pVN8CPU)       
+* [![pVN8i24.jpg](https://s21.ax1x.com/2025/08/01/pVN8i24.jpg)](https://imgse.com/i/pVN8i24)       
+* [![pVN8AM9.jpg](https://s21.ax1x.com/2025/08/01/pVN8AM9.jpg)](https://imgse.com/i/pVN8AM9)    
+* 情义无需多言，贵在风雨同行   
+
