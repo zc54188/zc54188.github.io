@@ -13,7 +13,7 @@ redirect_from:
 [![pVtss7F.png](https://s21.ax1x.com/2025/07/31/pVtss7F.png)](https://imgse.com/i/pVtss7F)
 >###### 嘿嘿 
 
-# 打三角洲全面战场可以找站长！！！(手机)
+# 打三角洲全面战场可以找站长！！！(手机id:zc周辰)
 
 # 语录库+风景↓↓   
 * ## 一晃又一秋，有人再见，有人再见    
@@ -29,8 +29,6 @@ redirect_from:
 * [![pVUdB0e.jpg](https://s21.ax1x.com/2025/08/05/pVUdB0e.jpg)](https://imgse.com/i/pVUdB0e)    
 
 * ## 从我打扰开始，从我多余结束
-
-* [![pVUdB0e.jpg](https://s21.ax1x.com/2025/08/05/pVUdB0e.jpg)](https://imgse.com/i/pVUdB0e)
 
 * [![pVUdDTH.jpg](https://s21.ax1x.com/2025/08/05/pVUdDTH.jpg)](https://imgse.com/i/pVUdDTH)
 
